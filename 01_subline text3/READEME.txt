@@ -1,0 +1,7 @@
+下载sublimeText3的安装包并安装（已经安装的可以忽略）
+（1）在hosts文件中添加:127.0.0.1    license.sublimehq.com（hosts文件地址:C:\Windows\System32\drivers\etc）    
+
+（2）将破解文件复制至sublimeText3安装目录下，以管理员身份运行破解文件，复制破解文件中的注册码    
+打开sublime -> help -> enterlicense 输入注册码
+
+（3）设置不更新： 在sublime text3中，选择Preferences -> Settings，在代码中中添加:"update_check":false
