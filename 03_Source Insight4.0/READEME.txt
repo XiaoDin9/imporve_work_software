@@ -1,0 +1,5 @@
+说明：
+	1、解压密码为: biu
+	2、先按照source insight4 的软件，在用破解目录下的source insight4 进行替换掉，并把si4.pediy.lic 文件拷贝到source insight 某个目录下去
+	3、选中xx.lic的激活方式即可激活成功
+	4、选中主题：Source Insight -> Option -> Load Configuration
