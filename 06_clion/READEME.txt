@@ -1,0 +1,7 @@
+说明：
+	1）把resources_zh_CN_CLion_2019.2_r1.jar放到Clion 软件安装的目录/lib目录下，然后重启即可汉化；
+	2）把jetbrains-agent-latest.zip文件中的jetbrains-agent.jar 放在安装目录下的/bin目录下，然后把它的绝对地址放在:clion64.exe.vmoptions文件中
+		-javaagent:D:\Program Files\JetBrains\CLion 2019.3.2\bin\jetbrains-agent.jar
+	3）支持两种注册方式：License server 和 Activation code:
+		（1）. 选择License server方式，地址填入：http://jetbrains-license-server （应该会自动填上）或者点击按钮：”Discover Server”来自动填充地址。
+		（2）. 选择Activation code方式离线激活，请使用：ACTIVATION_CODE.txt 内的注册码激活如果激活窗口一直弹出（error 1653219），请去hosts文件里移除jetbrains相关的项目
