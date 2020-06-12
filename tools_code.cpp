@@ -28,3 +28,17 @@
 	clear line 	# 删除行号断点
 	clear file:line 	# 删除file 文件中行号为line 的断点
 	delete 		# 删除所有断点
+	
+   4）、若有设置断点，一直运行到断点处
+	r                    #Run的简写，运行被调试的程序。
+
+   5）、打印变量的值
+	p variable 	# 打印基础数据类型、数组等
+	p func::a		# 打印函数func中的变量a （当多个文件中包含同名变量）
+	P *pointer		# 打印pointer[0]
+	P *pointer@n	# 打印pointer[0…n-1] 的元素
+	call func(args)	# 调用func函数、并传入参数 args, 打印返回值
+	p [var]              # (gdb) p a 或 pstStruct[0] 可以查看结构体中各个变量的值
+	display [var]        # display，设置想要跟踪的变量(例如 int a)。(gdb) display a
+        p /控制字符 variable   # 以控制字符（如下）打印变量，例如：p /d var 以十进制的形式打印变量var
+
