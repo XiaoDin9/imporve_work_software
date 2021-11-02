@@ -1,7 +1,7 @@
-ËµÃ÷£º
-	1£©°Ñresources_zh_CN_CLion_2019.2_r1.jar·Åµ½Clion Èí¼ş°²×°µÄÄ¿Â¼/libÄ¿Â¼ÏÂ£¬È»ºóÖØÆô¼´¿Éºº»¯£»
-	2£©°Ñjetbrains-agent-latest.zipÎÄ¼şÖĞµÄjetbrains-agent.jar ·ÅÔÚ°²×°Ä¿Â¼ÏÂµÄ/binÄ¿Â¼ÏÂ£¬È»ºó°ÑËüµÄ¾ø¶ÔµØÖ··ÅÔÚ:clion64.exe.vmoptionsÎÄ¼şÖĞ
+è¯´æ˜ï¼š(é’ˆå¯¹clion 2019.3.4 è½¯ä»¶æ¥è¯´ï¼‰
+	1ï¼‰æŠŠresources_zh_CN_CLion_2019.2_r1.jaræ”¾åˆ°Clion è½¯ä»¶å®‰è£…çš„ç›®å½•/libç›®å½•ä¸‹ï¼Œç„¶åé‡å¯å³å¯æ±‰åŒ–ï¼›
+	2ï¼‰æŠŠjetbrains-agent-latest.zipæ–‡ä»¶ä¸­çš„jetbrains-agent.jar æ”¾åœ¨å®‰è£…ç›®å½•ä¸‹çš„/binç›®å½•ä¸‹ï¼Œç„¶åæŠŠå®ƒçš„ç»å¯¹åœ°å€æ”¾åœ¨:clion64.exe.vmoptionsæ–‡ä»¶ä¸­
 		-javaagent:D:\Program Files\JetBrains\CLion 2019.3.2\bin\jetbrains-agent.jar
-	3£©Ö§³ÖÁ½ÖÖ×¢²á·½Ê½£ºLicense server ºÍ Activation code:
-		£¨1£©. Ñ¡ÔñLicense server·½Ê½£¬µØÖ·ÌîÈë£ºhttp://jetbrains-license-server £¨Ó¦¸Ã»á×Ô¶¯ÌîÉÏ£©»òÕßµã»÷°´Å¥£º¡±Discover Server¡±À´×Ô¶¯Ìî³äµØÖ·¡£
-		£¨2£©. Ñ¡ÔñActivation code·½Ê½ÀëÏß¼¤»î£¬ÇëÊ¹ÓÃ£ºACTIVATION_CODE.txt ÄÚµÄ×¢²áÂë¼¤»îÈç¹û¼¤»î´°¿ÚÒ»Ö±µ¯³ö£¨error 1653219£©£¬ÇëÈ¥hostsÎÄ¼şÀïÒÆ³ıjetbrainsÏà¹ØµÄÏîÄ¿
+	3ï¼‰æ”¯æŒä¸¤ç§æ³¨å†Œæ–¹å¼ï¼šLicense server å’Œ Activation code:
+		ï¼ˆ1ï¼‰. é€‰æ‹©License serveræ–¹å¼ï¼Œåœ°å€å¡«å…¥ï¼šhttp://jetbrains-license-server ï¼ˆåº”è¯¥ä¼šè‡ªåŠ¨å¡«ä¸Šï¼‰æˆ–è€…ç‚¹å‡»æŒ‰é’®ï¼šâ€Discover Serverâ€æ¥è‡ªåŠ¨å¡«å……åœ°å€ã€‚
+		ï¼ˆ2ï¼‰. é€‰æ‹©Activation codeæ–¹å¼ç¦»çº¿æ¿€æ´»ï¼Œè¯·ä½¿ç”¨ï¼šACTIVATION_CODE.txt å†…çš„æ³¨å†Œç æ¿€æ´»å¦‚æœæ¿€æ´»çª—å£ä¸€ç›´å¼¹å‡ºï¼ˆerror 1653219ï¼‰ï¼Œè¯·å»hostsæ–‡ä»¶é‡Œç§»é™¤jetbrainsç›¸å…³çš„é¡¹ç›®
